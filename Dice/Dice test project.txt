@@ -1,0 +1,38 @@
+	All dice test project use RNG test project as core
+
+=====Dice0.cpp=============================================
+Roll the dice n times
+
+Rule	
+	Odd lose	-point
+	Even win	+point
+
+=====Dice1.cpp=============================================
+Roll the dice n times
+
+No rule
+	Just find total and verage
+
+=====Dice2.cpp=============================================
+Roll the dice n times
+
+Rule 	
+	Cost -500 points
+	Odd lose	+0 point
+	Even win	+1000 points
+
+=====Dice3.cpp=============================================
+Roll the dice n times
+
+Rule 	
+	Press 0 to continue
+	Press any number to stop
+	After stop cout game over and show earned points
+	Cost -500 points
+	Odd lose	+0 point
+	Even win	+1000 points
+
+=====Dice4.cpp=============================================
+under development
+
+Concept	dice3.cpp but cleaner

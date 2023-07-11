@@ -22,7 +22,7 @@ Rule
 	Even win	+1000 points
 
 =====Dice3.cpp=============================================
-Roll the dice n times
+Roll the dice
 
 Rule 	
 	Press 0 to continue
@@ -33,6 +33,14 @@ Rule
 	Even win	+1000 points
 
 =====Dice4.cpp=============================================
-under development
+Roll the dice
 
-Concept	dice3.cpp but cleaner
+Rule 	
+	Press 0 to continue
+	Press any number to stop
+	After stop cout game over and show earned points
+	Cost -500 points
+	Odd lose	+0 point and clear screen
+	Even win	+1000 points
+
+update 	added color 

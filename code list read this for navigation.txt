@@ -1,9 +1,10 @@
 	Individual file
 /* ******************************************************************************************************************
-Cube.cpp			Cube printer
+Cube.cpp				Cube printer
 Empty Cube.cpp		Cube printer with hole in side
 Max Finder.cpp		For loop to find maximum interget number and end loop a *** A= -1 ***
 Diamon.cpp			Diamond printer
+Pyramid.cpp			Pyramid printer
 ****************************************************************************************************************** */
 	Projet file
 /* ******************************************************************************************************************

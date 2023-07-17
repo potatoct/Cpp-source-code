@@ -1,0 +1,15 @@
+Cube.cpp=====================================				
+
+	Cube printer
+
+Empty Cube.cpp================================	
+
+	Cube printer with hole in side
+
+Diamon.cpp===================================	
+
+	Diamond printer
+
+Pyramid.cpp===================================		
+
+	Pyramid printer

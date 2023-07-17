@@ -2,6 +2,10 @@ Cube.cpp=====================================
 
 	Cube printer
 
+Cube_2.cpp===================================	
+
+	Cube printer + wide control
+
 Empty Cube.cpp================================	
 
 	Cube printer with hole in side
@@ -13,3 +17,7 @@ Diamon.cpp===================================
 Pyramid.cpp===================================		
 
 	Pyramid printer
+
+Home.cpp=====================================				
+
+	home printer
